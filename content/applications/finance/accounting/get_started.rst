@@ -1,15 +1,12 @@
 :show-content:
 
 ===========
-Get started
+Bắt đầu
 ===========
 
-When you first open your Odoo Accounting app, the :guilabel:`Accounting Dashboard` welcomes you with
-a step-by-step onboarding banner, a wizard that helps you get started. This onboarding banner is
-displayed until you choose to close it.
+Khi bạn mở ứng dụng Kế toán Odoo lần đầu tiên, :guilabel:`Bảng điều khiển kế toán` chào mừng bạn với một biểu ngữ hướng dẫn từng bước một, một trình hướng dẫn giúp bạn bắt đầu. Biểu ngữ hướng dẫn được hiển thị cho tới khi bạn lựa chọn đóng nó.
 
-The settings visible in the onboarding banner can still be modified later by going to
-:menuselection:`Accounting --> Configuration --> Settings`.
+Các thiết lập hiển thị trong biểu ngữ hướng dẫn vẫn có thể được chỉnh sửa sau bằng cách vào :menuselection:`Accounting --> Configuration --> Settings`.
 
 .. note::
    Odoo Accounting automatically installs the appropriate **Fiscal Localization Package** for your
