@@ -6,11 +6,11 @@ Bắt đầu
 
 Khi bạn mở ứng dụng Kế toán Odoo lần đầu tiên, :guilabel:`Bảng điều khiển kế toán` chào mừng bạn với một biểu ngữ hướng dẫn từng bước một, một trình hướng dẫn giúp bạn bắt đầu. Biểu ngữ hướng dẫn được hiển thị cho tới khi bạn lựa chọn đóng nó.
 
-Các thiết lập hiển thị trong biểu ngữ hướng dẫn vẫn có thể được chỉnh sửa sau bằng cách vào :menuselection:`Accounting --> Configuration --> Settings`.
+Các thiết lập hiển thị trong biểu ngữ hướng dẫn vẫn có thể được chỉnh sửa sau bằng cách vào :menuselection:`Kế toán --> Cấu hình --> Cài đặt`.
 
 .. note::
-   Odoo Accounting automatically installs the appropriate **Fiscal Localization Package** for your
-   company, according to the country selected at the creation of the database. This way, the right
+   Kế toán Odoo tự động cài đặt **Gói địa phương hóa tài chính** thích hợp cho công ty của bạn,
+   according to the country selected at the creation of the database. This way, the right
    accounts, reports, and taxes are ready-to-go. :ref:`Click here <fiscal_localizations/packages>`
    for more information about Fiscal Localization Packages.
 
